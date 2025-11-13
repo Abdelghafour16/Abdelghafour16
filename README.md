@@ -25,17 +25,21 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### 🛠️ Tools & Protocols
+#### 🛠️ Tools & IDEs
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-00979D?style=for-the-badge)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-0C6FB6?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+
+#### 🔌 Communication & Protocols
+![LoRa](https://img.shields.io/badge/LoRa-00ADEF?style=for-the-badge&logo=semtech&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-8BC500?style=for-the-badge)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![I2C](https://img.shields.io/badge/I2C-00979D?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
 <!--
 **Abdelghafour16/Abdelghafour16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
