@@ -1,5 +1,15 @@
 ## Hi there 👋
+- Leading development of **Electronics | Hardware Design**
 
+- Experienced in **Schematic capture||PCB layout||firmware development**
+
+- Available for consulting **Embedded Systems | PCB Design | IoT**
+
+- Advancing expertise in **Advanced Stackup Design||HDI PCB||EMC/EMI Design**
+
+- Ask me about **Building reliable IoT solutions with optimized embedded firmware and professional PCB layouts**
+
+- How to reach me **abdelghafour.elayeechi@gmail.com**
 <!--
 **Abdelghafour16/Abdelghafour16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
