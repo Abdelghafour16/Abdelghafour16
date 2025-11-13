@@ -45,6 +45,12 @@
 - EcoMetrics Monitoring System – Custome PCB Design + IoT Dashboard
 - Vehicle Data Acquisition System (VDAS)
 - Customized PCB Design –  STM32F4
+---
+### Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghafour-ayachi-22b518286)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelghafour16)
+
 <!--
 **Abdelghafour16/Abdelghafour16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
