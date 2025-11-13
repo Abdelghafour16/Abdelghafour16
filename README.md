@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'am Abdelghafour Ayachi 👋
+#🚀 Electronic Engineer | PCB Designer
 - Leading development of **Electronics | Hardware Design**
 
 - Experienced in **Schematic capture||PCB layout||firmware development**
